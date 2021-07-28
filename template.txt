@@ -9,11 +9,10 @@
     
     <!-- 
         Go vanity domain URLs go below:
-        The format is: vanity.domain git https://bitbucket/repo
+        The format is: vanity.domain git https://bitbucket.org/repo
     -->
     <meta name="go-import" content="frankieone.dev/XXXXXX git https://bitbucket.org/frankieone/XXXXXX">
-
-
+    
 </head>
 
 <body>

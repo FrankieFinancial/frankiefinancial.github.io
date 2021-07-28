@@ -9,9 +9,9 @@
     
     <!-- 
         Go vanity domain URLs go below:
-        The format is: vanity.domain git https://bitbucket/repo
+        The format is: vanity.domain git https://bitbucket.org/repo
     -->
-    <meta name="go-import" content="frankieone.dev/scrubbla git ssh://git@bitbucket.org/frankieone/scrubbla">
+    <meta name="go-import" content="frankieone.dev/connectors git https://bitbucket.org/frankieone/connectors">
     
 </head>
 
@@ -19,7 +19,7 @@
 
     <p><img alt="FrankieOne" src="./logo.png" width="529" height="85"></p>
 
-    <h2>frankieone.dev/scrubbla</h2>
+    <h2>frankieone.dev/connectors</h2>
 </body>
 
 </html>

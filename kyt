@@ -11,7 +11,7 @@
         Go vanity domain URLs go below:
         The format is: vanity.domain git https://bitbucket.org/repo
     -->
-    <meta name="go-import" content="frankieone.dev/risk git https://bitbucket.org/frankieone/risk-service/src/main">
+    <meta name="go-import" content="frankieone.dev/kyt git https://bitbucket.org/frankieone/kyt-service/src/main">
     
 </head>
 
@@ -19,7 +19,7 @@
 
     <p><img alt="FrankieOne" src="./logo.png" width="529" height="85"></p>
 
-    <h2>frankieone.dev/risk</h2>
+    <h2>frankieone.dev/kyt</h2>
 </body>
 
 </html>

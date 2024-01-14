@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<head>
+    <meta charset="utf-8">
+    <link href="./styles.css" rel="stylesheet">
+    <title>FrankieOne packages</title>
+    
+    <!-- 
+        Go vanity domain URLs go below:
+        The format is: vanity.domain git https://github.com/frankieone/repo
+    -->
+    <meta name="go-import" content="frankieone.dev/dos git https://github.com/frankieone/dos">
+    
+</head>
+
+<body>
+
+    <p><img alt="FrankieOne" src="./logo.png" width="529" height="85"></p>
+
+    <h2>frankieone.dev/dos</h2>
+</body>
+
+</html>
